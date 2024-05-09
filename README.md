@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @alboo89
-- 👀 I’m interested in Frontend development, React, MUI, js, ts
-- 🌱 I’m currently learning Typescript and Node.js
-- 💞️ I’m looking to collaborate on Open Source js/ts projects
+- 👋 Hi, I’m Alberto. Web Developer and CTO @ RacingTeams -> www.racingteamsapp.com
+- 👀 I’m interested in Web development and AI
+- 🌱 I’m currently exploring the AI world 
 - 📫 How to reach me: albertopiras.ap@gmail.com
 
 <!---
